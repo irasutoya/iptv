@@ -1,4 +1,4 @@
-#EXTM3U name="成都电信 IPTV - 2025-06-09T19:11:48Z" url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+#EXTM3U name="成都电信 IPTV - 2025-06-10T19:11:46Z" url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="CCTV",CCTV1
 http://china-telecom.ie.cx:4044/rtp/239.93.0.184:5140
@@ -127,7 +127,7 @@ http://china-telecom.ie.cx:4044/rtp/239.93.0.234:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-id="73" tvg-name="重庆卫视" group-title="卫视",重庆卫视
 http://china-telecom.ie.cx:4044/rtp/239.93.0.112:5140
 #EXTINF:-1 tvg-logo="" tvg-id="186" tvg-name="北京卫视4K" group-title="卫视",北京卫视4K
-http://china-telecom.ie.cx:4044/rtp/239.93.42.102:5140
+http://china-telecom.ie.cx:4044/rtp/239.94.0.111:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" tvg-id="18" tvg-name="CDTV1" group-title="四川",CDTV1
 http://china-telecom.ie.cx:4044/rtp/239.93.0.16:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" tvg-id="33" tvg-name="SCTV2" group-title="四川",SCTV2
